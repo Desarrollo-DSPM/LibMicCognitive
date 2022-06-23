@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LibMicCognitive</id>
+    <version>1.0.0</version>
+    <authors>LibMicCognitive</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Microsoft.CognitiveServices.Speech" version="1.22.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.DotNet.ILCompiler" version="7.0.0-preview.5.22301.12" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\joel.aviña\source\repos\LibMicCognitive\LibMicCognitive\bin\x64\Debug\net5.0\win-x64\LibMicCognitive.dll" target="lib\net5.0\LibMicCognitive.dll" />
+  </files>
+</package>
