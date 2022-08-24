@@ -10,9 +10,9 @@
       Libreria que implementa el uso de los servicios de reconocimiento de voz de Microsoft Azure para hacer interface 
       con Dart.
     </Description>
+    <OutputPath>..\..</OutputPath>
     <NeutralLanguage>es-MX</NeutralLanguage>
     <Version>1.0.2</Version>
-    <PublishAot>true</PublishAot>
     <IlcOptimizationPreference>Size</IlcOptimizationPreference>
     <PublishTrimmed>true</PublishTrimmed>
     <TrimmerDefaultAction>link</TrimmerDefaultAction>

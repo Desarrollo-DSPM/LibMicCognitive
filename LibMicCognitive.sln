@@ -17,8 +17,8 @@ Global
 		{DD485A0E-77E3-4405-A06D-9851DA6D65C3}.Debug|x64.Build.0 = Debug|x64
 		{DD485A0E-77E3-4405-A06D-9851DA6D65C3}.Release|x64.ActiveCfg = Release|x64
 		{DD485A0E-77E3-4405-A06D-9851DA6D65C3}.Release|x64.Build.0 = Release|x64
-		{DD485A0E-77E3-4405-A06D-9851DA6D65C3}.Debug|Any CPU.ActiveCfg = Debug|x64
-		{DD485A0E-77E3-4405-A06D-9851DA6D65C3}.Debug|Any CPU.Build.0 = Debug|x64
+		{DD485A0E-77E3-4405-A06D-9851DA6D65C3}.Debug|Any CPU.ActiveCfg = Release|x64
+		{DD485A0E-77E3-4405-A06D-9851DA6D65C3}.Debug|Any CPU.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
