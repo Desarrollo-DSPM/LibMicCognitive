@@ -65,6 +65,7 @@ namespace LibMicCognitive
             //    default:
             //        return Marshal.StringToHGlobalAnsi("No hay una excepcion para esto aun jijiji");
             //}
+            //
         }
 
         [UnmanagedCallersOnly(EntryPoint = "stop")]
