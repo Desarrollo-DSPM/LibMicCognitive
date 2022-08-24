@@ -10,4 +10,4 @@ build_property.EnableSingleFileAnalyzer =
 build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = LibMicCognitive
-build_property.ProjectDir = C:\Users\joel.aviña\source\repos\LibMicCognitive\LibMicCognitive\
+build_property.ProjectDir = C:\VisualStudio Projects\LibMicCognitive\LibMicCognitive\

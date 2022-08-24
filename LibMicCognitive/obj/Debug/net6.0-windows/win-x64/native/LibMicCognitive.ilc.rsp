@@ -1,6 +1,6 @@
-obj\debug\net6.0-windows\win-x64\LibMicCognitive.dll
--o:obj\debug\net6.0-windows\win-x64\native\LibMicCognitive.obj
--r:C:\Users\joel.aviña\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.6\runtimes\win-x64\lib\net6.0\WindowsBase.dll
+obj\Debug\net6.0-windows\win-x64\LibMicCognitive.dll
+-o:obj\Debug\net6.0-windows\win-x64\native\LibMicCognitive.obj
+-r:C:\Users\joel.aviña\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.8\runtimes\win-x64\lib\net6.0\WindowsBase.dll
 -r:C:\Users\joel.aviña\.nuget\packages\microsoft.cognitiveservices.speech\1.22.0\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
 -r:C:\Users\joel.aviña\.nuget\packages\runtime.win-x64.microsoft.dotnet.ilcompiler\7.0.0-preview.5.22301.12\framework\Microsoft.CSharp.dll
 -r:C:\Users\joel.aviña\.nuget\packages\runtime.win-x64.microsoft.dotnet.ilcompiler\7.0.0-preview.5.22301.12\framework\Microsoft.VisualBasic.Core.dll
@@ -178,7 +178,7 @@ obj\debug\net6.0-windows\win-x64\LibMicCognitive.dll
 --targetarch:x64
 -g
 --nativelib
---exportsfile:obj\debug\net6.0-windows\win-x64\native\LibMicCognitive.def
+--exportsfile:obj\Debug\net6.0-windows\win-x64\native\LibMicCognitive.def
 --initassembly:System.Private.CoreLib
 --initassembly:System.Private.StackTraceMetadata
 --initassembly:System.Private.TypeLoader
@@ -210,7 +210,7 @@ obj\debug\net6.0-windows\win-x64\LibMicCognitive.dll
 --scanreflection
 --nowarn:"1701;1702;1701;1702"
 --singlewarn
---root:obj\debug\net6.0-windows\win-x64\LibMicCognitive.dll
+--root:obj\Debug\net6.0-windows\win-x64\LibMicCognitive.dll
 --nosinglewarnassembly:LibMicCognitive
 --defaultrooting
 --resilient

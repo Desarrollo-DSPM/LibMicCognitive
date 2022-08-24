@@ -11,7 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Direccion de Seguridad Publica Municipal de Chihuahua")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Libreria que implementa el uso de los servicios de reconocimiento de voz de Micro" +
     "soft Azure para hacer interface con Dart")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.2.0")]
